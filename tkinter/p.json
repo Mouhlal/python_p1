@@ -1,0 +1,17 @@
+[
+    {
+        "country":"Maroc",
+        "capitale":"Rabat",
+        "population":37.08
+    },
+    {
+        "country":"Egypte",
+        "capitale":"Caire",
+        "population":109.3
+    },
+    {
+        "country":"Espagne",
+        "capitale":"Madrid",
+        "population":47.42
+    }
+]
